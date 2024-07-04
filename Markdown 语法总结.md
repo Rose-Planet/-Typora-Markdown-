@@ -241,12 +241,12 @@ Markdown中插入图片的使用方式是：
 ```
 ![图片描述，可写可不写，但是中括号要有](图片地址，本地链接或者URL地址。)
 比如绝美的三叶的图片：
-![绝美的三叶](C:\Users\liuhao\Pictures\Screenshots\1.png)
+![绝美的三叶](https://github.com/Rose-Planet/-Typora-Markdown-/blob/main/1.png)
 ```
 
 效果：
 
-![绝美的三叶](C:\Users\liuhao\Pictures\Screenshots\1.png)
+![绝美的三叶](https://github.com/Rose-Planet/-Typora-Markdown-/blob/main/1.png)
 
 也可以`修改位置和图片大小`：
 
